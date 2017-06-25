@@ -1,0 +1,5 @@
+/vendor
+/vendor/*
+/html/links.txt
+/bucket.php
+/user.php
